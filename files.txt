@@ -1,0 +1,43 @@
+01. Introduction & Setup
+	(1280, 720) | 01. Welcome To The Course.mp4
+	(1280, 720) | 02. Download Software.mp4
+	(1280, 720) | 03. Community & Support.mp4
+	(1280, 720) | 04. Getting Started with Libresprite.mp4
+	(1280, 720) | 05. Character Silhouettes.mp4
+	(1280, 720) | 06. Detailing Silhouettes.mp4
+	(1280, 720) | 07. Outlining Characters.mp4
+	(1280, 720) | 08. Creating Platformer Silhouettes.mp4
+	(1280, 720) | 09. Detailing Platformer Silhouettes.mp4
+	(1280, 720) | 10. Section Wrap-Up - Introduction & Setup.mp4
+02. Designing Characters
+	(1280, 720) | 01. Section Intro - Designing Characters.mp4
+	(1280, 720) | 02. Building Top-Down Character Models.mp4
+	(1280, 720) | 03. Detailing Top-Down Characters.mp4
+	(1280, 720) | 04. Creating A Top-Down Wizard.mp4
+	(1280, 720) | 05. Creating A Top-Down Knight.mp4
+	(1280, 720) | 06. Designing Platformer Character Models.mp4
+	(1280, 720) | 07. Creating A Platformer Fighter.mp4
+	(1280, 720) | 08. Creating A Platformer Archer.mp4
+	(1280, 720) | 09. Designing A Character Portrait.mp4
+	(1280, 720) | 10. Customizing Character Portraits.mp4
+	(1280, 720) | 11. Section Wrap-Up - Designing Characters.mp4
+03. Character Animation
+	(1280, 720) | 01. Section Intro - Character Animation.mp4
+	(1280, 720) | 02. Setting Up Animations.mp4
+	(1280, 720) | 03. Animating Characters - Idle Cycle.mp4
+	(1280, 720) | 04. Animating Characters - Run Cycle.mp4
+	(1280, 720) | 05. Animating Characters - Jumping.mp4
+	(1280, 720) | 06. Animating Characters - Attacking.mp4
+	(1280, 720) | 07. Animating Characters - Hit & Death.mp4
+	(1280, 720) | 08. Section Wrapup - Character Animation.mp4
+04. Creating Monsters
+	(1280, 720) | 01. Section Intro - Creating Monsters.mp4
+	(1280, 720) | 02. Designing Enemies - Slimes.mp4
+	(1280, 720) | 03. Designing Enemies - Bats.mp4
+	(1280, 720) | 04. Designing Enemies - Demons.mp4
+	(1280, 720) | 05. Designing Enemies - Wolf.mp4
+	(1280, 720) | 06. Animating Enemies - Slimes.mp4
+	(1280, 720) | 07. Animating Enemies - Bats.mp4
+	(1280, 720) | 08. Animating Enemies - Demons.mp4
+	(1280, 720) | 09. Animating Enemies - Wolf.mp4
+	(1280, 720) | 10. Section Wrapup - Creating Monsters.mp4
